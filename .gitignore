@@ -15,3 +15,4 @@
 #extra folders
 node_modules/
 out/
+lib/*
