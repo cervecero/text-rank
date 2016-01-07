@@ -1,13 +1,16 @@
 #Web storm files
-#.idea/.name
-#.idea/jsLibraryMappings.xml
-#.idea/misc.xml
-#.idea/modules.xml
-#.idea/text-rank.iml
-#.idea/vcs.xml
-#.idea/watcherTasks.xml
-#.idea/workspace.xml
-#.idea/libraries/Generated_files.xml
+.idea/.name
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/text-rank.iml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/libraries/Generated_files.xml
+
+*.sublime-project
+*.sublime-workspace
 
 #extra folders
 node_modules/
