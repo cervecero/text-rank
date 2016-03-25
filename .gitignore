@@ -9,6 +9,11 @@
 .idea/workspace.xml
 .idea/libraries/Generated_files.xml
 
+*.sublime-project
+*.sublime-workspace
+
 #extra folders
 node_modules/
 out/
+lib/*
+
