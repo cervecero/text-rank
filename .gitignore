@@ -1,4 +1,5 @@
 #Web storm files
+.idea*
 .idea/.name
 .idea/jsLibraryMappings.xml
 .idea/misc.xml
